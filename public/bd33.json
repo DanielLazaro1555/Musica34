@@ -2506,5 +2506,82 @@
     "album": "The X Saga [Explicit]",
     "numero_de_pista": "11/11",
     "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274596_1.flac",
+    "descripcion": "198274596",
+    "imagen": "Albums/198274596.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "My Dear",
+    "artista": "Summer Was Fun",
+    "album": "My Dear",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274597_1.flac",
+    "descripcion": "198274597",
+    "imagen": "Albums/198274597.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Let You Go",
+    "artista": "Savoy",
+    "album": "Let You Go",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274598_1.flac",
+    "descripcion": "198274598",
+    "imagen": "Albums/198274598.jpg",
+    "genero": "Dance & DJ/Drum & Bass",
+    "titulo": "Change Us [Explicit]",
+    "artista": "Snavs feat. Jack Dawson",
+    "album": "Change Us [Explicit]",
+    "numero_de_pista": "1/1",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274599_1.flac",
+    "descripcion": "198274599",
+    "imagen": "Albums/198274599.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Fall Away",
+    "artista": "Feint",
+    "album": "Fall Away EP",
+    "numero_de_pista": "1/4",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274599_2.flac",
+    "descripcion": "198274599",
+    "imagen": "Albums/198274599.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Watch Me",
+    "artista": "Feint",
+    "album": "Fall Away EP",
+    "numero_de_pista": "2/4",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274599_3.flac",
+    "descripcion": "198274599",
+    "imagen": "Albums/198274599.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Shatter",
+    "artista": "Feint",
+    "album": "Fall Away EP",
+    "numero_de_pista": "3/4",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274599_4.flac",
+    "descripcion": "198274599",
+    "imagen": "Albums/198274599.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Sincere",
+    "artista": "Feint",
+    "album": "Fall Away EP",
+    "numero_de_pista": "4/4",
+    "Año": "2015"
   }
 ]
