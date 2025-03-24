@@ -2583,5 +2583,126 @@
     "album": "Fall Away EP",
     "numero_de_pista": "4/4",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274600_1.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "From Zero (Intro)",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "1/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_2.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "The Emptiness Machine [Explicit]",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "2/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_3.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Cut the Bridge",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "3/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_4.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Heavy Is the Crown",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "4/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_5.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Over Each Other",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "5/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_6.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Casualty",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "6/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_7.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Overflow",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "7/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_8.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Two Faced",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "8/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_9.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Stained",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "9/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_10.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "IGYEIH",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "10/11",
+    "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274600_11.flac",
+    "descripcion": "198274600",
+    "imagen": "Albums/198274600.jpg",
+    "genero": "Alternative Rock",
+    "titulo": "Good Things Go [Explicit]",
+    "artista": "Linkin Park",
+    "album": "From Zero [Explicit]",
+    "numero_de_pista": "11/11",
+    "Año": "2024"
   }
 ]
