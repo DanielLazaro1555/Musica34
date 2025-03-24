@@ -2297,5 +2297,93 @@
     "album": "Better Man (Original Motion Picture Soundtrack) [Explicit]",
     "numero_de_pista": "13/13",
     "Año": "2024"
+  },
+  {
+    "archivo_musica": "Albums/198274594_1.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Angel Wings",
+    "artista": "Mike Ault feat. Avianna Acid",
+    "album": "Memories",
+    "numero_de_pista": "1/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_2.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Darkness",
+    "artista": "Mike Ault & Christian De La Torre",
+    "album": "Memories",
+    "numero_de_pista": "2/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_3.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "I Can Be",
+    "artista": "Mike Ault feat. Crysta",
+    "album": "Memories",
+    "numero_de_pista": "3/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_4.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Flying Forever",
+    "artista": "Mike Ault feat. Morgan Perry",
+    "album": "Memories",
+    "numero_de_pista": "4/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_5.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Looking To The Future",
+    "artista": "Mike Ault",
+    "album": "Memories",
+    "numero_de_pista": "5/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_6.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "In My Dreams",
+    "artista": "Mike Ault feat. Nikki Wilkins",
+    "album": "Memories",
+    "numero_de_pista": "6/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_7.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Lacuna",
+    "artista": "Mike Ault",
+    "album": "Memories",
+    "numero_de_pista": "7/8",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274594_8.flac",
+    "descripcion": "198274594",
+    "imagen": "Albums/198274594.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Love Thru The Night",
+    "artista": "Mike Ault feat. Morgan Perry",
+    "album": "Memories",
+    "numero_de_pista": "8/8",
+    "Año": "2022"
   }
 ]
