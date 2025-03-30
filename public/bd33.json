@@ -3936,5 +3936,49 @@
     "album": "Life Thru A Lens (25th Anniversary)",
     "numero_de_pista": "63/63",
     "Año": "1997"
+  },
+  {
+    "archivo_musica": "Albums/198274605_1.flac",
+    "descripcion": "198274605",
+    "imagen": "Albums/198274605.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Driver [Explicit]",
+    "artista": "Pendulum",
+    "album": "Elemental",
+    "numero_de_pista": "1/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274605_2.flac",
+    "descripcion": "198274605",
+    "imagen": "Albums/198274605.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Nothing For Free",
+    "artista": "Pendulum",
+    "album": "Elemental",
+    "numero_de_pista": "2/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274605_3.flac",
+    "descripcion": "198274605",
+    "imagen": "Albums/198274605.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Louder Than Words",
+    "artista": "Pendulum & Hybrid Minds",
+    "album": "Elemental",
+    "numero_de_pista": "3/4",
+    "Año": "2021"
+  },
+  {
+    "archivo_musica": "Albums/198274605_4.flac",
+    "descripcion": "198274605",
+    "imagen": "Albums/198274605.jpg",
+    "genero": "Dance & DJ/Electronica",
+    "titulo": "Come Alive",
+    "artista": "Pendulum",
+    "album": "Elemental",
+    "numero_de_pista": "4/4",
+    "Año": "2021"
   }
 ]
