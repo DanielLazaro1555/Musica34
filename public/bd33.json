@@ -4090,5 +4090,27 @@
     "album": "Elevations 01",
     "numero_de_pista": "10/10",
     "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274607_1.flac",
+    "descripcion": "198274607",
+    "imagen": "Albums/198274607.jpg",
+    "genero": "Dance",
+    "titulo": "The Temple",
+    "artista": "Raise Spirit",
+    "album": "The Temple",
+    "numero_de_pista": "1/2",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274607_2.flac",
+    "descripcion": "198274607",
+    "imagen": "Albums/198274607.jpg",
+    "genero": "Dance",
+    "titulo": "The Temple (Instrumental)",
+    "artista": "Raise Spirit",
+    "album": "The Temple",
+    "numero_de_pista": "2/2",
+    "Año": "2018"
   }
 ]
